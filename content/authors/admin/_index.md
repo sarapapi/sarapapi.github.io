@@ -28,19 +28,25 @@ bio: Interested in speech processing, especially simultaneous speech translation
 interests:
   - Artificial Intelligence
   - Computational Linguistics
+  - Speech Processing
+  - Subtitling
+
+# experience
+experience:
+  - Artificial Intelligence
+  - Computational Linguistics
+  - Speech Processing
+  - Subtitling
 
 # Education to show in About widget
 education:
   courses:
     - course: PhD in Information and Communication Technology 
-      institution: University of Trento
-      year: 2020-now
+      institution: University of Trento, 2020 - now
     - course: MSc in Computer and Automation Engineering
-      institution: University of Siena
-      year: 2017-2020
+      institution: University of Siena, 2017 - 2020
     - course: BSc in Information Engineering
-      institution: University of Siena
-      year: 2014-2017
+      institution: University of Siena, 2014-2017
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
