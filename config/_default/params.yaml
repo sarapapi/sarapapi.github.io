@@ -7,9 +7,9 @@
 
 appearance:
   theme_day: minimal
-  theme_night: minimal
-  font: minimal
-  font_size: L
+  theme_night: dark
+  font: native
+  font_size: M
 
 # SEO
 
@@ -34,8 +34,8 @@ marketing:
 header:
   navbar:
     enable: true
-    align: l
-    show_logo: true
+    align: c
+    show_logo: fakse
     show_language: false
     show_day_night: true
     show_search: true
