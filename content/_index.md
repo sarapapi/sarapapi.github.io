@@ -57,7 +57,7 @@ sections:
         - title: Research Intern
           company: Microsoft
           company_url: 'https://www.microsoft.com/en-us/research/'
-          company_logo: org-microsoft
+          company_logo: microsoft
           location: Redmond, WA (USA)
           date_start: '2023-05-15'
           date_end: '2023-08-01'
@@ -65,7 +65,7 @@ sections:
         - title: Resarch Intern
           company: Fondazione Bruno Kessler
           company_url: 'https://www.fbk.eu/'
-          company_logo: org-FBK
+          company_logo: FBK
           location: Trento, Italy
           date_start: '2020-07-01'
           date_end: '2020-10-31'
@@ -73,7 +73,7 @@ sections:
         - title: Resarch Intern
           company: Fondazione Bruno Kessler
           company_url: 'https://www.fbk.eu/'
-          company_logo: org-FBK
+          company_logo: FBK
           location: Trento, Italy
           date_start: '2019-07-01'
           date_end: '2019-12-31'
