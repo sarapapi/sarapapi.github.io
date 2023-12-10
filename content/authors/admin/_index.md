@@ -67,7 +67,7 @@ social:
     label: Follow me on X
     display:
       header: true
-  - icon: sematic-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+  - icon: semantic-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     link: https://www.semanticscholar.org/author/Sara-Papi/2006601535
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
