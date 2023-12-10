@@ -54,27 +54,30 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
-          description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+        - title: Research Intern
+          company: Microsoft
+          company_url: 'https://www.microsoft.com/en-us/research/'
+          company_logo: org-microsoft
+          location: Redmond, WA (USA)
+          date_start: '2023-05-15'
+          date_end: '2023-08-01'
+          description: Internship in Streaming Speech Recognition and Translation, working with Jinyu Li et al.
+        - title: Resarch Intern
+          company: Fondazione Bruno Kessler
+          company_url: 'https://www.fbk.eu/'
+          company_logo: org-FBK
+          location: Trento, Italy
+          date_start: '2020-07-01'
+          date_end: '2020-10-31'
+          description: Internship in data-to-text generation for weather forecasting.
+        - title: Resarch Intern
+          company: Fondazione Bruno Kessler
+          company_url: 'https://www.fbk.eu/'
+          company_logo: org-FBK
+          location: Trento, Italy
+          date_start: '2019-07-01'
+          date_end: '2019-12-31'
+          description: Internship in automatic speech scoring for second language learner.
     design:
       columns: '2'
   - block: collection
