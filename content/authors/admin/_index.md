@@ -31,13 +31,6 @@ interests:
   - Speech Processing
   - Subtitling
 
-# experience
-experience:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Speech Processing
-  - Subtitling
-
 # Education to show in About widget
 education:
   courses:
