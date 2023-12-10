@@ -108,6 +108,7 @@ sections:
       view: compact
       columns: '2'
   - block: collection
+    id: publications
     content:
       title: Recent Publications
       filters:
@@ -156,9 +157,9 @@ sections:
       columns: '2'
       view: card
   - block: collection
-    id: talks
+    id: activities
     content:
-      title: Recent & Upcoming Talks
+      title: Activities
       filters:
         folders:
           - event
