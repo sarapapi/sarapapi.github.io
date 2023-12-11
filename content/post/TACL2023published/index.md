@@ -1,6 +1,7 @@
 ---
 title: "Direct Speech Translation for Automatic Subtitling" published at Transactions of ACL (TACL) journal! 🎉
 date: '2023-11-13'
+summary: ''
 ---
 
 <!-- ```python
