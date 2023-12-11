@@ -61,7 +61,7 @@ sections:
           location: Redmond, WA (USA)
           date_start: '2023-05-15'
           date_end: '2023-08-01'
-          description: Internship in Streaming Speech Recognition and Translation, working with [Jinyu Li][https://www.microsoft.com/en-us/research/people/jinyli/] et al.
+          description: Internship in Streaming Speech Recognition and Translation, working with [Jinyu Li](https://www.microsoft.com/en-us/research/people/jinyli/) et al.
         - title: Resarch Intern
           company: Fondazione Bruno Kessler
           company_url: 'https://www.fbk.eu/'
@@ -158,4 +158,4 @@ sections:
 ---
 
 
-[https://www.microsoft.com/en-us/research/people/jinyli/]: https://www.microsoft.com/en-us/research/people/jinyli/
+[Jinyu Li]: https://www.microsoft.com/en-us/research/people/jinyli/
