@@ -118,6 +118,16 @@ sections:
     design:
       columns: '2'
       view: citation
+  - block: collection
+    id: activities
+    content:
+      title: Activities
+      filters:
+        folders:
+          - event
+    design:
+      columns: '2'
+      view: compact
   - block: portfolio
     id: projects
     content:
@@ -145,16 +155,6 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-  - block: collection
-    id: activities
-    content:
-      title: Activities
-      filters:
-        folders:
-          - event
-    design:
-      columns: '2'
-      view: compact
 ---
 
 
