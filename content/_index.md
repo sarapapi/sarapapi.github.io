@@ -105,7 +105,7 @@ sections:
       order: desc
     design:
       # Choose a layout view
-      view: compact
+      view: list
       columns: '2'
   - block: collection
     id: publications
@@ -127,7 +127,7 @@ sections:
           - event
     design:
       columns: '2'
-      view: compact
+      view: list
   - block: portfolio
     id: projects
     content:
