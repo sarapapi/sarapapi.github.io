@@ -22,7 +22,7 @@ organizations:
     url: https://mt.fbk.eu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Interested in speech processing, especially simultaneous speech translation and automatic subtitling.
+bio: Interested in speech processing, especially simultaneous speech translation.
 
 # Interests to show in About widget
 interests:
@@ -91,5 +91,5 @@ highlight_name: true
 
 I am PhD student in Computer Science, specifically in speech translation, at [FBK (Fondazione Bruno Kessler)](https://www.fbk.eu/) in the [MT Unit](https://mt.fbk.eu/). I am interesed in speech processing in general and its applications, with a particular focus on simultaneous translation and automatic subtitling, which are the topics of my PhD. 
 
-[Leave an anonymous feedback here!](https://www.admonymous.co/sarapapi)
+[Leave an anonymous feedback here!](https://www.admonymous.co/sarapapi) 😊
 {style="text-align: justify;"}
