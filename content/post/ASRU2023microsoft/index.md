@@ -1,5 +1,5 @@
 ---
-title: My Microsoft internship paper (1) was accepted at ASRU 2023 🎊
+title: My first Microsoft internship paper was accepted at ASRU 2023 🎊
 date: '2023-11-28'
 ---
 
