@@ -91,5 +91,7 @@ highlight_name: true
 
 I am PhD student in Computer Science, specifically in speech translation, at [FBK (Fondazione Bruno Kessler)](https://www.fbk.eu/) in the [MT Unit](https://mt.fbk.eu/). I am interesed in speech processing in general and its applications, with a particular focus on simultaneous translation and automatic subtitling, which are the topics of my PhD. 
 
+(I love elephants ♥️🐘)
+
 [Leave an anonymous feedback here!](https://www.admonymous.co/sarapapi) 😊
 {style="text-align: justify;"}

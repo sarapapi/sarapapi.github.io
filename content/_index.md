@@ -39,12 +39,12 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: Biography
+      title: 🐘 Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: experience
     content:
-      title: Experience 🏃
+      title: 🏃 Experience 
       # Date format for experience
       #   Refer to https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
@@ -83,7 +83,7 @@ sections:
   - block: collection
     id: news
     content:
-      title: News 📢 
+      title: 📢 News  
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
@@ -110,7 +110,7 @@ sections:
   - block: collection
     id: publications
     content:
-      title: Recent Publications 📰
+      title: 📰 Recent Publications 
       filters:
         folders:
           - publication
@@ -121,7 +121,7 @@ sections:
   - block: collection
     id: activities
     content:
-      title: Activities 📌
+      title: 📌 Activities 
       filters:
         folders:
           - event
