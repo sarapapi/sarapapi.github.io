@@ -7,4 +7,3 @@ date: '2024-02-20'
  
  Preprint is available on arXiv: [https://arxiv.org/abs/2402.13208](https://arxiv.org/abs/2402.13208)
 
- ![png](paper.png)
