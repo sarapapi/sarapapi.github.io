@@ -1,5 +1,5 @@
 ---
-title: My first Microsoft internship paper was accepted at ASRU 2023 🎊
+title: '"How do Hyenas deal with Human Speech? Speech Recognition and Translation with ConfHyena" accepted at LREC-COLING 2024 🎊'
 date: '2024-02-20'
 ---
 
