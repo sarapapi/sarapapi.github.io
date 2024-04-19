@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD Student in Speech Translation
+role: Post-dioc in Speech Translation
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -35,7 +35,7 @@ interests:
 education:
   courses:
     - course: PhD in Information and Communication Technology 
-      institution: University of Trento, 2020 - now
+      institution: University of Trento, 2020 - 2024
     - course: MSc in Computer and Automation Engineering
       institution: University of Siena, 2017 - 2020
     - course: BSc in Information Engineering
@@ -89,7 +89,7 @@ social:
 highlight_name: true
 ---
 
-I am PhD student in Computer Science, specifically in speech translation, at [FBK (Fondazione Bruno Kessler)](https://www.fbk.eu/) in the [MT Unit](https://mt.fbk.eu/). I am interesed in speech processing in general and its applications, with a particular focus on simultaneous translation and automatic subtitling, which are the topics of my PhD. 
+I am post-doc in Computer Science, specifically in speech translation, at [FBK (Fondazione Bruno Kessler)](https://www.fbk.eu/) in the [MT Unit](https://mt.fbk.eu/). I am interesed in speech processing in general and its applications, with a particular focus on simultaneous translation and automatic subtitling, which were the topics of my PhD. 
 
 (I love elephants ♥️🐘)
 
