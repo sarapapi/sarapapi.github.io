@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Post-dioc in Speech Translation
+role: Post-doc in Speech Translation
 
 # Organizations/Affiliations to show in About widget
 organizations:
