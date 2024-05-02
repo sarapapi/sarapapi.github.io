@@ -28,4 +28,8 @@ abstract: Transformer-based models have gained increasing popularity achieving s
 links:
 - name: URL
   url: https://aclanthology.org/2021.emnlp-main.127
+- name: Poster
+  url: https://docs.google.com/presentation/d/1NNtpbsswe1-KR4sgnlrVYZcKLJ95RHdSlSoBwGkCn10/edit?usp=sharing
+- name: Slides
+  url: https://docs.google.com/presentation/d/1wpXg7_2gUQrvWmly_MAvsTf_AbuJeAmJIhlHXOHl6zM/edit?usp=sharing
 ---
