@@ -89,7 +89,7 @@ social:
 highlight_name: true
 ---
 
-I am post-doc in Computer Science, specifically in speech translation, at [FBK (Fondazione Bruno Kessler)](https://www.fbk.eu/) in the [MT Unit](https://mt.fbk.eu/). I am interesed in speech processing in general and its applications, with a particular focus on simultaneous translation and automatic subtitling, which were the topics of my PhD. 
+I am a post-doc in Computer Science, specifically in speech translation, at [FBK (Fondazione Bruno Kessler)](https://www.fbk.eu/) in the [MT Unit](https://mt.fbk.eu/). I am interested in speech processing in general and its applications, with a particular focus on simultaneous translation and automatic subtitling, which were the topics of my PhD. 
 
 (I love elephants ♥️🐘)
 
