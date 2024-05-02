@@ -19,4 +19,7 @@ doi: 10.1109/ICASSP48485.2024.10447565
 tags:
 - Training;Costs;Signal processing;Transformers;Real-time systems;Decoding;Synchronization;speech
   recognition;speech translation;streaming;joint;timestamp
+links:
+- name: Poster
+  url: https://docs.google.com/presentation/d/1v2sAdA5gJg3TxGvGqHEVD3_yIfzkHh91PWIpt0o1wLM/edit?usp=sharing
 ---
