@@ -32,4 +32,6 @@ abstract: This paper describes FBK′s system submission to the IWSLT 2021 Offli
 links:
 - name: URL
   url: https://aclanthology.org/2021.iwslt-1.8
+- name: Slides
+  url: https://docs.google.com/presentation/d/13Z5uUINz_lmwuPgbYWZp_BdIGDtznwOKBchx3MV8o3g/edit?usp=sharing
 ---
