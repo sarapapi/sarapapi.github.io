@@ -17,4 +17,9 @@ doi: 10.1109/ASRU57964.2023.10389715
 tags:
 - Training;Degradation;Transducers;Costs;Conferences;Speech enhancement;Transformers;automatic
   speech recognition;speech translation;streaming;serialized output training
+links:
+- name: Poster
+  url: https://docs.google.com/presentation/d/119NGehfgWFAUlFNvRPrmj-tDBzWPyKIrpCWbtPoppzY/edit?usp=sharing
+- name: Video
+  url: https://youtu.be/CiO3XC1kc7A
 ---
