@@ -30,4 +30,8 @@ abstract: When translating words referring to the speaker, speech translation (S
 links:
 - name: URL
   url: https://aclanthology.org/2023.emnlp-main.705
+- name: Slides
+  url: https://app.underline.io/downloadable_materials/lectures/88642/slideshow
+- name: Video
+  url: https://underline.io/lecture/88642-integrating-language-models-into-direct-speech-translation-an-inference-time-solution-to-control-gender-inflection
 ---
