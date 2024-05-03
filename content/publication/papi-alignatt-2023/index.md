@@ -14,4 +14,6 @@ doi: 10.21437/Interspeech.2023-170
 links:
 - name: URL
   url: https://www.isca-speech.org/archive/interspeech_2023/papi23_interspeech.html
+- name: Poster
+  url: https://docs.google.com/presentation/d/112TMBEQup9GJn-BaXjqd7bRQ5A-QgL34_xJSkxt7gr0/edit?usp=sharing
 ---
