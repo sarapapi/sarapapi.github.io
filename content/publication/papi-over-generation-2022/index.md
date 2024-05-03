@@ -15,4 +15,6 @@ doi: 10.18653/v1/2022.autosimtrans-1.2
 links:
 - name: URL
   url: https://aclanthology.org/2022.autosimtrans-1.2
+- name: Slides
+  url: https://docs.google.com/presentation/d/1Kg_4yNbI8Sf3-WiZyJhmzD7hEBzWkTf_A65dvCOFTQE/edit?usp=sharing
 ---
