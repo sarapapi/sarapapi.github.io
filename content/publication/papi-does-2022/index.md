@@ -14,4 +14,10 @@ doi: 10.18653/v1/2022.findings-emnlp.11
 links:
 - name: URL
   url: https://aclanthology.org/2022.findings-emnlp.11
+- name: Poster
+  url: https://docs.google.com/presentation/d/1xOv8GdWrgrSiBNfXFLZ9c8FtRx414xTatUpA5StMEB0/edit?usp=sharing
+- name: Slides
+  url: https://docs.google.com/presentation/d/1ohhrXZ2LWC9I8fPbDQ4XONVydW45KmLn64ShekmDEiE/edit?usp=sharing
+- name: Video
+  url: https://youtu.be/09JO6qZiZjk
 ---
