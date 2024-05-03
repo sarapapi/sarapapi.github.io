@@ -14,4 +14,6 @@ doi: 10.18653/v1/2023.iwslt-1.11
 links:
 - name: URL
   url: https://aclanthology.org/2023.iwslt-1.11
+- name: Poster
+  url: https://docs.google.com/presentation/d/1WefLBYv41F2Bt_p5HgPYr1jh5a4wTFsNI3cIyR3PIPM/edit?usp=sharing
 ---
