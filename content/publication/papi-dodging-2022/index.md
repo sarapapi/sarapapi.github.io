@@ -29,4 +29,8 @@ abstract: Speech translation for subtitling (SubST) is the task of automatically
 links:
 - name: URL
   url: https://aclanthology.org/2022.aacl-short.59
+- name: Poster
+  url: https://docs.google.com/presentation/d/1vqvFDzgtm1j2se1h4hlUNbFR59XHh5C8C_CoEL-Zv3E/edit?usp=sharing
+- name: Video
+  url: https://youtu.be/su6vnyezKEw
 ---
