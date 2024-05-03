@@ -32,4 +32,6 @@ links:
   url: https://docs.google.com/presentation/d/1NNtpbsswe1-KR4sgnlrVYZcKLJ95RHdSlSoBwGkCn10/edit?usp=sharing
 - name: Slides
   url: https://docs.google.com/presentation/d/1wpXg7_2gUQrvWmly_MAvsTf_AbuJeAmJIhlHXOHl6zM/edit?usp=sharing
+- name: Video
+  url: https://underline.io/lecture/37646-speechformer-reducing-information-loss-in-direct-speech-translation
 ---
