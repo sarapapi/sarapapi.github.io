@@ -17,4 +17,8 @@ doi: 10.18653/v1/2022.iwslt-1.13
 links:
 - name: URL
   url: https://aclanthology.org/2022.iwslt-1.13
+- name: Poster
+  url: https://docs.google.com/presentation/d/1Ju6HhUaRyNgtO2l91seSdF1eKrPV_P2mn-eyNPlnNNU/edit?usp=sharing
+- name: Slides
+  url: https://docs.google.com/presentation/d/1VH5vahiSKUDznxaDCZH2dWpzkcWtDc9iYXKFYF6jd9w/edit?usp=sharing
 ---
