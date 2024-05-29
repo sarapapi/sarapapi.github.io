@@ -1,8 +1,21 @@
-@misc{gaido2024hyenas,
- archiveprefix = {arXiv},
- author = {Marco Gaido and Sara Papi and Matteo Negri and Luisa Bentivogli},
- eprint = {2402.13208},
- primaryclass = {cs.CL},
- title = {How do Hyenas deal with Human Speech? Speech Recognition and Translation with ConfHyena},
- year = {2024}
+@inproceedings{gaido-etal-2024-hyenas-deal,
+    title = "How Do Hyenas Deal with Human Speech? Speech Recognition and Translation with {C}onf{H}yena",
+    author = "Gaido, Marco  and
+      Papi, Sara  and
+      Negri, Matteo  and
+      Bentivogli, Luisa",
+    editor = "Calzolari, Nicoletta  and
+      Kan, Min-Yen  and
+      Hoste, Veronique  and
+      Lenci, Alessandro  and
+      Sakti, Sakriani  and
+      Xue, Nianwen",
+    booktitle = "Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)",
+    month = may,
+    year = "2024",
+    address = "Torino, Italia",
+    publisher = "ELRA and ICCL",
+    url = "https://aclanthology.org/2024.lrec-main.717",
+    pages = "8184--8191",
+    abstract = "The attention mechanism, a cornerstone of state-of-the-art neural models, faces computational hurdles in processing long sequences due to its quadratic complexity. Consequently, research efforts in the last few years focused on finding more efficient alternatives. Among them, Hyena (Poli et al., 2023) stands out for achieving competitive results in both language modeling and image classification, while offering sub-quadratic memory and computational complexity. Building on these promising results, we propose ConfHyena, a Conformer whose encoder self-attentions are replaced with an adaptation of Hyena for speech processing, where the long input sequences cause high computational costs. Through experiments in automatic speech recognition (for English) and translation (from English into 8 target languages), we show that our best ConfHyena model significantly reduces the training time by 27{\%}, at the cost of minimal quality degradation (∼1{\%}), which, in most cases, is not statistically significant.",
 }

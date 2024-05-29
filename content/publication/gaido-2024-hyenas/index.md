@@ -11,6 +11,8 @@ publishDate: '2024-02-21T18:11:45.803481Z'
 publication_types:
 - manuscript
 links:
+- name: ACL Anthology
+  url: https://aclanthology.org/2024.lrec-main.717/
 - name: arXiv
   url: https://arxiv.org/abs/2402.13208
 - name: Poster
