@@ -27,6 +27,14 @@ abstract: Automatic subtitling is the task of automatically translating the spee
   with production tools on both in-domain and newly released out-domain benchmarks
   covering new scenarios.
 links:
-- name: URL
+- name: MIT Press
   url: https://doi.org/10.1162/tacl_a_00607
+- name: ACL Anthology
+  url: https://aclanthology.org/2023.tacl-1.77/
+- name: Poster
+  url: https://drive.google.com/file/d/19vz0beubGR8egWeefVNNv5Kpy1I8qEAT/view?usp=sharing
+- name: Slides
+  url: https://drive.google.com/file/d/16BkDibJvJW3FuHBbfvNVnmVW8LlQszTQ/view?usp=sharing
+- name: Video
+  url: https://youtu.be/eXnKonQzdc8
 ---
