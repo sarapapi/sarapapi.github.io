@@ -26,6 +26,16 @@ abstract: Streaming speech-to-text translation (StreamST) is the task of automat
   naive streaming baseline and the related state-of-the-art SimulST policy, providing
   a first step in StreamST research.
 links:
-- name: URL
+- name: ACL Anthology
   url: https://aclanthology.org/2024.acl-long.202
+- name: GitHub
+  url: https://github.com/hlt-mt/FBK-fairseq/blob/master/fbk_works/STREAMATT_STREAMLAAL.md
+- name: arXiv
+  url: https://arxiv.org/abs/2406.06097
+- name: Poster
+  url: https://drive.google.com/file/d/1hG1qNLyrpGPHxIpDKx3xihnIqcOelpzU/view?usp=sharing
+- name: Slides
+  url: https://drive.google.com/file/d/1YFN-kR_uH3nufzWxdXmkJQ8cI6N8lSUR/view?usp=sharing
+- name: Video
+  url: https://youtu.be/RDid_d6f3ZQ
 ---
