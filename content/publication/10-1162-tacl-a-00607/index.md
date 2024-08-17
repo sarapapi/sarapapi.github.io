@@ -31,6 +31,8 @@ links:
   url: https://doi.org/10.1162/tacl_a_00607
 - name: ACL Anthology
   url: https://aclanthology.org/2023.tacl-1.77/
+- name: GitHub
+  url: https://github.com/hlt-mt/FBK-fairseq/blob/master/fbk_works/DIRECT_SUBTITLING.md
 - name: Poster
   url: https://drive.google.com/file/d/19vz0beubGR8egWeefVNNv5Kpy1I8qEAT/view?usp=sharing
 - name: Slides
