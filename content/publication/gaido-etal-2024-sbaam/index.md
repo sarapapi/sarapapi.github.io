@@ -25,6 +25,14 @@ abstract: 'Subtitling plays a crucial role in enhancing the accessibility of aud
   prediction. Experimental results, backed by manual evaluation, showcase our solution′s
   new state-of-the-art performance across multiple language pairs and diverse conditions.'
 links:
-- name: URL
+- name: ACL Anthology
   url: https://aclanthology.org/2024.acl-long.201
+- name: GitHub
+  url: https://github.com/hlt-mt/FBK-fairseq/blob/master/fbk_works/SBAAM.md
+- name: arXiv
+  url: https://arxiv.org/abs/2405.10741
+- name: Poster
+  url: https://drive.google.com/file/d/12daP4BvCVLJMc36rguss_Sfxr6KDk-dO/view?usp=sharing
+- name: Slides
+  url: https://drive.google.com/file/d/1cbG_8dIRZ77Lsi8Cz1lOqE_9qngOtNjQ/view?usp=sharing
 ---
