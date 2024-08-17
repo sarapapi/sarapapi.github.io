@@ -13,6 +13,8 @@ publication_types:
 links:
 - name: ACL Anthology
   url: https://aclanthology.org/2024.lrec-main.717/
+- name: GitHub
+  url: https://github.com/hlt-mt/FBK-fairseq/blob/master/fbk_works/HYENA_COLING2024.md
 - name: arXiv
   url: https://arxiv.org/abs/2402.13208
 - name: Poster
