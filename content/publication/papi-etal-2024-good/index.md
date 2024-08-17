@@ -26,6 +26,18 @@ abstract: Despite its crucial role in research experiments, code correctness is 
   a Code-quality Checklist, with the goal of promoting coding best practices and improving
   software quality within the NLP community.
 links:
-- name: URL
+- name: ACL Anthology
   url: https://aclanthology.org/2024.acl-long.200
+- GitHub (Pangolinn):
+  url: https://github.com/hlt-mt/pangolinn
+- GitHub (Case Study Code and Models):
+  url: https://github.com/hlt-mt/FBK-fairseq/blob/master/fbk_works/BUGFREE_CONFORMER.md
+- name: arXiv
+  url: https://arxiv.org/abs/2303.16166
+- name: Poster
+  url: https://drive.google.com/file/d/18eh4Nmc94NBPAbml7goZzF1DtIe4pTGK/view?usp=sharing
+- name: Slides
+  url: https://drive.google.com/file/d/1A8B1JNwMoMSZSot1IrC_20GGPXeOteYx/view?usp=sharing
+- name: Video
+  url: https://youtu.be/EtMqFP1K2Ao
 ---
