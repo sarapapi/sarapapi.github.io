@@ -28,9 +28,9 @@ abstract: Despite its crucial role in research experiments, code correctness is 
 links:
 - name: ACL Anthology
   url: https://aclanthology.org/2024.acl-long.200
-- GitHub (Pangolinn):
+- name: GitHub (Pangolinn)
   url: https://github.com/hlt-mt/pangolinn
-- GitHub (Case Study Code and Models):
+- name: GitHub (Case Study)
   url: https://github.com/hlt-mt/FBK-fairseq/blob/master/fbk_works/BUGFREE_CONFORMER.md
 - name: arXiv
   url: https://arxiv.org/abs/2303.16166
