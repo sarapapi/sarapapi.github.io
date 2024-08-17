@@ -32,6 +32,8 @@ abstract: 'The paper describes the FBK submissions to the Subtitling track of th
   automatically generated and potentially error-prone, underscoring the need for future
   studies to develop targeted solutions.'
 links:
-- name: URL
+- name: ACL Anthology
   url: https://aclanthology.org/2024.iwslt-1.13
+- name: Poster
+  url: https://docs.google.com/presentation/d/1OttYQYDcS-HP8iT_ZZcua7DDBJIdgnarQdaf5p3rZpc/edit?usp=sharing
 ---

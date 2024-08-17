@@ -23,6 +23,12 @@ abstract: 'This paper describes the FBK′s participation in the Simultaneous Tr
   compared to last year′s submissions. SimulSeamless, covering more than 143 source
   languages and 200 target languages, is released at: https://github.com/hlt-mt/FBK-fairseq/.'
 links:
-- name: URL
+- name: ACL Anthology
   url: https://aclanthology.org/2024.iwslt-1.11
+- name: GitHub
+  url: https://github.com/hlt-mt/FBK-fairseq/blob/master/fbk_works/SIMULSEAMLESS.md
+- name: arXiv
+  url: https://arxiv.org/abs/2406.14177
+- name: Poster
+  url: https://drive.google.com/file/d/1KQMfa4Q9EHNhHKojnDcIMu0SE-CAQgJI/view?usp=sharing
 ---
