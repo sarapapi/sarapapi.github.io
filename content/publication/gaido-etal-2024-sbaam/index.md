@@ -37,4 +37,6 @@ links:
   url: https://drive.google.com/file/d/12daP4BvCVLJMc36rguss_Sfxr6KDk-dO/view?usp=sharing
 - name: Slides
   url: https://drive.google.com/file/d/1cbG_8dIRZ77Lsi8Cz1lOqE_9qngOtNjQ/view?usp=sharing
+- name: Video
+  url: https://youtu.be/Pa_XShKnxrQ
 ---
