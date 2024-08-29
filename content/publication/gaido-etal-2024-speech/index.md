@@ -27,6 +27,14 @@ abstract: The field of natural language processing (NLP) has recently witnessed 
   recommendations for future works on the topic aimed at better understanding the
   strengths and weaknesses of the SFM+LLM solutions for ST.
 links:
-- name: URL
+- name: ACL Anthology
   url: https://aclanthology.org/2024.acl-long.789
+- name: arXiv
+  url: https://arxiv.org/abs/2402.12025
+- name: Poster
+  url: https://drive.google.com/file/d/1urCOsAfr-g7gcExjNcshF6w66_X2f8-G/view?usp=sharing
+- name: Slides
+  url: https://drive.google.com/file/d/1nluMTLdq9OdkPULltfZx9PaVqBhAkNkI/view?usp=sharing
+- name: Video
+  url: https://youtu.be/aNuw2Qq73SI
 ---
