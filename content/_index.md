@@ -60,7 +60,6 @@ sections:
           company_logo: FBK
           location: Trento, Italy
           date_start: '2024-01-01'
-          date_end: now
           description: PostDoc in Speech Translation, working on the [Meetween European Project](https://www.meetween.eu/).
         - title: Research Intern
           company: Microsoft
