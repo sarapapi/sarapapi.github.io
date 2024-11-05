@@ -54,6 +54,14 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: PostDoc
+          company: Fondazione Bruno Kessler
+          company_url: 'https://www.fbk.eu/'
+          company_logo: FBK
+          location: Trento, Italy
+          date_start: '2024-01-01'
+          date_end: now
+          description: PostDoc in Speech Translation, working on the [Meetween European Project](https://www.meetween.eu/).
         - title: Research Intern
           company: Microsoft
           company_url: 'https://www.microsoft.com/en-us/research/'
