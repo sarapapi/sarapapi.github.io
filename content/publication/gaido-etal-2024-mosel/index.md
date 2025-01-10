@@ -2,8 +2,8 @@
 title: 'MOSEL: 950,000 Hours of Speech Data for Open-Source Speech Foundation Model
   Training on EU Languages'
 authors:
-- Marco Gaido
-- Sara Papi
+- Marco Gaido*
+- Sara Papi*
 - Luisa Bentivogli
 - Alessio Brutti
 - Mauro Cettolo
@@ -29,6 +29,18 @@ abstract: The rise of foundation models (FMs), coupled with regulatory efforts a
   for 441k hours of unlabeled data under the permissive CC-BY license, thereby facilitating
   the creation of open-source SFMs for the EU languages.
 links:
-- name: URL
+- name: ACL Anthology
   url: https://aclanthology.org/2024.emnlp-main.771
+- name: GitHub 
+  url: https://github.com/hlt-mt/mosel
+- name: HuggingFace
+  url: https://huggingface.co/datasets/FBK-MT/mosel
+- name: arXiv
+  url: https://arxiv.org/abs/2410.01036
+- name: Poster
+  url: https://drive.google.com/file/d/1r3u9_t-EJdakM9ICGHZwCVZoTYfj5Xjr/view?usp=sharing
+- name: Slides
+  url: https://drive.google.com/file/d/1cbG_8dIRZ77Lsi8Cz1lOqE_9qngOtNjQ/view?usp=sharing
+- name: Video
+  url: https://www.youtube.com/watch?v=UvFKY-aYsw0
 ---
