@@ -4,7 +4,7 @@ title: IWSLT 2025 Instruction-Following Speech Processing and Simultaneous Track
 event: IWSLT 2025 Instruction-Following Speech Processing and Simultaneous Track co-organizer
 event_url: https://iwslt.org/2025
 
-summary: Co-organizer of the IWSLT 2024 Evaluation Campaigns on the new Instruction-Following Speech Processing task and Simultaneous Translation
+summary: Co-organizer of the IWSLT 2025 Evaluation Campaigns on the new Instruction-Following Speech Processing task and Simultaneous Translation
 abstract: ''
 
 # Talk start and end times.
