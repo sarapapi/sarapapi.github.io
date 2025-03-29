@@ -393,17 +393,7 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/prova/";
-            },},{id: "news-my-first-microsoft-internship-paper-was-accepted-at-asru-2023",
+      },{id: "news-my-first-microsoft-internship-paper-was-accepted-at-asru-2023",
           title: 'My first Microsoft internship paper was accepted at ASRU 2023 🎊',
           description: "",
           section: "News",},{id: "news-my-second-microsoft-internship-paper-was-accepted-at-icassp-2024",
@@ -415,10 +405,12 @@ ninja.data = [{
           section: "News",},{id: "news-i-successfully-defended-my-phd",
           title: 'I successfully defended my PhD 🎊',
           description: "",
-          section: "News",},{id: "news-i-am-super-happy-to-share-that-i-co-authored-4-long-papers-accepted-at-the-acl-2024-main-conference-i-will-present-them-together-with-a-paper-published-in-the-tacl-journal-last-year-during-the-conference-feel-free-to-reach-out-in-person-the-details-of-the-paper-and-the-oral-poster-sessions-in-which-i-am-presenting-are-below-speech-translation-with-speech-foundation-models-and-large-language-models-what-is-there-and-what-is-missing-marco-gaido-sara-papi-matteo-negri-luisa-bentivogli-during-poster-session-1-convention-center-a1-from-11-00-to-12-30-and-in-machine-translation-oral-presentation-in-the-lotus-suite-1-4-at-16-00-on-monday-12th-when-good-and-reproducible-results-are-a-giant-with-feet-of-clay-the-importance-of-software-quality-in-nlp-sara-papi-marco-gaido-andrea-pilzer-matteo-negri-during-poster-session-3-convention-center-a1-from-16-00-to-17-30-on-monday-12th-and-in-special-theme-oral-presentation-in-the-world-ballroom-b-at-10-30-on-wednesday-14th-sbaam-eliminating-transcript-dependency-in-automatic-subtitling-marco-gaido-sara-papi-matteo-negri-mauro-cettolo-luisa-bentivogli-during-poster-session-4-convention-center-a1-from-10-30-to-12-00-on-tuesday-13th-streamatt-direct-streaming-speech-to-text-translation-with-attention-based-audio-history-selection-sara-papi-marco-gaido-matteo-negri-luisa-bentivogli-during-poster-session-2-convention-center-a1-from-14-00-to-15-30-on-monday-12th-direct-speech-translation-for-automatic-subtitling-sara-papi-marco-gaido-alina-karakanta-mauro-cettolo-matteo-negri-marco-turchi-in-machine-translation-oral-presentation-in-the-lotus-suite-1-4-at-16-45-on-monday-12th-and-poster-session-4-convention-center-a1-from-10-30-to-12-00-on-tuesday-13th",
-          title: 'I am super happy to share that I co-authored 4 long papers accepted...',
+          section: "News",},{id: "news-i-am-presenting-5-papers-at-acl-2024",
+          title: 'I am presenting 5 papers at ACL 2024! 🎉',
           description: "",
-          section: "News",},{id: "news-",
+          section: "News",handler: () => {
+              window.location.href = "/news/2024_ACL/";
+            },},{id: "news-",
           title: '',
           description: "",
           section: "News",handler: () => {
@@ -428,6 +420,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2024_EMNLP_award/";
+            },},{id: "news-",
+          title: '',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/prova/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
