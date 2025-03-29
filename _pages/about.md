@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Postdoctoral Researcher. <a href='https://www.fbk.eu/'>Fondazione Bruno Kessler</a>.
+subtitle:
 
 profile:
   align: left
