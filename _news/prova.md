@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A long announcement with details
+title: :trophy: Outstanding Paper and other Achievement at ACL 2024!
 date: 2015-11-07 16:11:00-0400
 inline: false
 related_posts: false
