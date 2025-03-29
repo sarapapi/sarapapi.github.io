@@ -1,115 +1,427 @@
----
----
-
-@string{aps = {American Physical Society,}}
-
-@book{einstein1920relativity,
-  title={Relativity: the Special and General Theory},
-  author={Einstein, Albert},
-  year={1920},
-  publisher={Methuen & Co Ltd},
-  html={relativity.html}
+@inproceedings{gaido-etal-2024-mosel,
+    title = "{MOSEL}: 950,000 Hours of Speech Data for Open-Source Speech Foundation Model Training on {EU} Languages",
+    author = "Gaido, Marco  and
+      Papi, Sara  and
+      Bentivogli, Luisa  and
+      Brutti, Alessio  and
+      Cettolo, Mauro  and
+      Gretter, Roberto  and
+      Matassoni, Marco  and
+      Nabih, Mohamed  and
+      Negri, Matteo",
+    editor = "Al-Onaizan, Yaser  and
+      Bansal, Mohit  and
+      Chen, Yun-Nung",
+    booktitle = "Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing",
+    month = nov,
+    year = "2024",
+    address = "Miami, Florida, USA",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.emnlp-main.771",
+    pages = "13934--13947",
+    abstract = "The rise of foundation models (FMs), coupled with regulatory efforts addressing their risks and impacts, has sparked significant interest in open-source models. However, existing speech FMs (SFMs) fall short of full compliance with the open-source principles, even if claimed otherwise, as no existing SFM has model weights, code, and training data publicly available under open-source terms. In this work, we take the first step toward filling this gap by focusing on the 24 official languages of the European Union (EU). We collect suitable training data by surveying automatic speech recognition datasets and unlabeled speech corpora under open-source compliant licenses, for a total of 950k hours. Additionally, we release automatic transcripts for 441k hours of unlabeled data under the permissive CC-BY license, thereby facilitating the creation of open-source SFMs for the EU languages.",
 }
 
-@book{einstein1956investigations,
-  bibtex_show={true},
-  title={Investigations on the Theory of the Brownian Movement},
-  author={Einstein, Albert},
-  year={1956},
-  publisher={Courier Corporation},
-  preview={brownian-motion.gif}
+@inproceedings{savoldi-etal-2024-harm,
+    title = "What the Harm? Quantifying the Tangible Impact of Gender Bias in Machine Translation with a Human-centered Study",
+    author = "Savoldi, Beatrice  and
+      Papi, Sara  and
+      Negri, Matteo  and
+      Guerberof-Arenas, Ana  and
+      Bentivogli, Luisa",
+    editor = "Al-Onaizan, Yaser  and
+      Bansal, Mohit  and
+      Chen, Yun-Nung",
+    booktitle = "Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing",
+    month = nov,
+    year = "2024",
+    address = "Miami, Florida, USA",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.emnlp-main.1002",
+    pages = "18048--18076",
+    abstract = "Gender bias in machine translation (MT) is recognized as an issue that can harm people and society. And yet, advancements in the field rarely involve people, the final MT users, or inform how they might be impacted by biased technologies. Current evaluations are often restricted to automatic methods, which offer an opaque estimate of what the downstream impact of gender disparities might be. We conduct an extensive human-centered study to examine if and to what extent bias in MT brings harms with tangible costs, such as quality of service gaps across women and men. To this aim, we collect behavioral data from {\textasciitilde}90 participants, who post-edited MT outputs to ensure correct gender translation. Across multiple datasets, languages, and types of users, our study shows that feminine post-editing demands significantly more technical and temporal effort, also corresponding to higher financial costs. Existing bias measurements, however, fail to reflect the found disparities. Our findings advocate for human-centered approaches that can inform the societal impact of bias.",
 }
 
-@article{einstein1950meaning,
-  abbr={AJP},
-  bibtex_show={true},
-  title={The meaning of relativity},
-  author={Einstein, Albert and Taub, AH},
-  journal={American Journal of Physics},
-  volume={18},
-  number={6},
-  pages={403--404},
-  year={1950},
-  publisher={American Association of Physics Teachers}
+@inproceedings{papi-etal-2024-simulseamless,
+    title = "{S}imul{S}eamless: {FBK} at {IWSLT} 2024 Simultaneous Speech Translation",
+    author = "Papi, Sara  and
+      Gaido, Marco  and
+      Negri, Matteo  and
+      Bentivogli, Luisa",
+    editor = "Salesky, Elizabeth  and
+      Federico, Marcello  and
+      Carpuat, Marine",
+    booktitle = "Proceedings of the 21st International Conference on Spoken Language Translation (IWSLT 2024)",
+    month = aug,
+    year = "2024",
+    address = "Bangkok, Thailand (in-person and online)",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.iwslt-1.11",
+    pages = "72--79",
+    abstract = "This paper describes the FBK{'}s participation in the Simultaneous Translation Evaluation Campaign at IWSLT 2024. For this year{'}s submission in the speech-to-text translation (ST) sub-track, we propose SimulSeamless, which is realized by combining AlignAtt and SeamlessM4T in its medium configuration. The SeamlessM4T model is used {`}off-the-shelf{'} and its simultaneous inference is enabled through the adoption of AlignAtt, a SimulST policy based on cross-attention that can be applied without any retraining or adaptation of the underlying model for the simultaneous task. We participated in all the Shared Task languages (English-{\textgreater}German, Japanese, Chinese, and Czech-{\textgreater}English), achieving acceptable or even better results compared to last year{'}s submissions. SimulSeamless, covering more than 143 source languages and 200 target languages, is released at: https://github.com/hlt-mt/FBK-fairseq/.",
 }
 
-@article{PhysRev.47.777,
-  abbr={PhysRev},
-  title={Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?},
-  author={Einstein*†, A. and Podolsky*, B. and Rosen*, N.},
-  abstract={In a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete.},
-  journal={Phys. Rev.},
-  location={New Jersey},
-  volume={47},
-  issue={10},
-  pages={777--780},
-  numpages={0},
-  year={1935},
-  month={May},
-  publisher=aps,
-  doi={10.1103/PhysRev.47.777},
-  url={http://link.aps.org/doi/10.1103/PhysRev.47.777},
-  html={https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777},
-  pdf={example_pdf.pdf},
-  altmetric={248277},
-  dimensions={true},
-  google_scholar_id={qyhmnyLat1gC},
-  video={https://www.youtube-nocookie.com/embed/aqz-KE-bpKQ},
-  additional_info={. *More Information* can be [found here](https://github.com/alshedivat/al-folio/)},
-  annotation={* Example use of superscripts<br>† Albert Einstein},
-  selected={true},
-  inspirehep_id = {3255}
+@inproceedings{gaido-etal-2024-automatic,
+    title = "Automatic Subtitling and Subtitle Compression: {FBK} at the {IWSLT} 2024 Subtitling track",
+    author = "Gaido, Marco  and
+      Papi, Sara  and
+      Cettolo, Mauro  and
+      Cattoni, Roldano  and
+      Piergentili, Andrea  and
+      Negri, Matteo  and
+      Bentivogli, Luisa",
+    editor = "Salesky, Elizabeth  and
+      Federico, Marcello  and
+      Carpuat, Marine",
+    booktitle = "Proceedings of the 21st International Conference on Spoken Language Translation (IWSLT 2024)",
+    month = aug,
+    year = "2024",
+    address = "Bangkok, Thailand (in-person and online)",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.iwslt-1.13",
+    pages = "86--96",
+    abstract = "The paper describes the FBK submissions to the Subtitling track of the 2024 IWSLT Evaluation Campaign, which covers both the Automatic Subtitling and the Subtitle Compression task for two language pairs: English to German (en-de) and English to Spanish (en-es). For the Automatic Subtitling task, we submitted two systems: i) a direct model, trained in constrained conditions, that produces the SRT files from the audio without intermediate outputs (e.g., transcripts), and ii) a cascade solution that integrates only free-to-use components, either taken off-the-shelf or developed in-house. Results show that, on both language pairs, our direct model outperforms both cascade and direct systems trained in constrained conditions in last year{'}s edition of the campaign, while our cascade solution is competitive with the best 2023 runs. For the Subtitle Compression task, our primary submission involved prompting a Large Language Model (LLM) in zero-shot mode to shorten subtitles that exceed the reading speed limit of 21 characters per second. Our results highlight the challenges inherent in shrinking out-of-context sentence fragments that are automatically generated and potentially error-prone, underscoring the need for future studies to develop targeted solutions.",
 }
 
-@article{einstein1905molekularkinetischen,
-  title={{\"U}ber die von der molekularkinetischen Theorie der W{\"a}rme geforderte Bewegung von in ruhenden Fl{\"u}ssigkeiten suspendierten Teilchen},
-  author={Einstein, A.},
-  journal={Annalen der physik},
-  volume={322},
-  number={8},
-  pages={549--560},
-  year={1905},
-  publisher={Wiley Online Library}
+@inproceedings{papi-etal-2024-streamatt,
+    title = "{S}tream{A}tt: Direct Streaming Speech-to-Text Translation with Attention-based Audio History Selection",
+    author = "Papi, Sara  and
+      Gaido, Marco  and
+      Negri, Matteo  and
+      Bentivogli, Luisa",
+    editor = "Ku, Lun-Wei  and
+      Martins, Andre  and
+      Srikumar, Vivek",
+    booktitle = "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = aug,
+    year = "2024",
+    address = "Bangkok, Thailand",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.acl-long.202",
+    pages = "3692--3707",
+    abstract = "Streaming speech-to-text translation (StreamST) is the task of automatically translating speech while incrementally receiving an audio stream. Unlike simultaneous ST (SimulST), which deals with pre-segmented speech, StreamST faces the challenges of handling continuous and unbounded audio streams. This requires additional decisions about what to retain of the previous history, which is impractical to keep entirely due to latency and computational constraints. Despite the real-world demand for real-time ST, research on streaming translation remains limited, with existing works solely focusing on SimulST. To fill this gap, we introduce StreamAtt, the first StreamST policy, and propose StreamLAAL, the first StreamST latency metric designed to be comparable with existing metrics for SimulST. Extensive experiments across all 8 languages of MuST-C v1.0 show the effectiveness of StreamAtt compared to a naive streaming baseline and the related state-of-the-art SimulST policy, providing a first step in StreamST research.",
 }
 
-@article{einstein1905movement,
-  abbr={Ann. Phys.},
-  title={Un the movement of small particles suspended in statiunary liquids required by the molecular-kinetic theory 0f heat},
-  author={Einstein, A.},
-  journal={Ann. Phys.},
-  volume={17},
-  pages={549--560},
-  year={1905}
+@inproceedings{gaido-etal-2024-speech,
+    title = "Speech Translation with Speech Foundation Models and Large Language Models: What is There and What is Missing?",
+    author = "Gaido, Marco  and
+      Papi, Sara  and
+      Negri, Matteo  and
+      Bentivogli, Luisa",
+    editor = "Ku, Lun-Wei  and
+      Martins, Andre  and
+      Srikumar, Vivek",
+    booktitle = "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = aug,
+    year = "2024",
+    address = "Bangkok, Thailand",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.acl-long.789",
+    pages = "14760--14778",
+    abstract = "The field of natural language processing (NLP) has recently witnessed a transformative shift with the emergence of foundation models, particularly Large Language Models (LLMs) that have revolutionized text-based NLP. This paradigm has extended to other modalities, including speech, where researchers are actively exploring the combination of Speech Foundation Models (SFMs) and LLMs into single, unified models capable of addressing multimodal tasks. Among such tasks, this paper focuses on speech-to-text translation (ST). By examining the published papers on the topic, we propose a unified view of the architectural solutions and training strategies presented so far, highlighting similarities and differences among them. Based on this examination, we not only organize the lessons learned but also show how diverse settings and evaluation approaches hinder the identification of the best-performing solution for each architectural building block and training choice. Lastly, we outline recommendations for future works on the topic aimed at better understanding the strengths and weaknesses of the SFM+LLM solutions for ST.",
 }
 
-@article{einstein1905electrodynamics,
-  title={On the electrodynamics of moving bodies},
-  author={Einstein, A.},
-  year={1905}
+@inproceedings{gaido-etal-2024-sbaam,
+    title = "{SBAAM}! Eliminating Transcript Dependency in Automatic Subtitling",
+    author = "Gaido, Marco  and
+      Papi, Sara  and
+      Negri, Matteo  and
+      Cettolo, Mauro  and
+      Bentivogli, Luisa",
+    editor = "Ku, Lun-Wei  and
+      Martins, Andre  and
+      Srikumar, Vivek",
+    booktitle = "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = aug,
+    year = "2024",
+    address = "Bangkok, Thailand",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.acl-long.201",
+    pages = "3673--3691",
+    abstract = "Subtitling plays a crucial role in enhancing the accessibility of audiovisual content and encompasses three primary subtasks: translating spoken dialogue, segmenting translations into concise textual units, and estimating timestamps that govern their on-screen duration. Past attempts to automate this process rely, to varying degrees, on automatic transcripts, employed diversely for the three subtasks. In response to the acknowledged limitations associated with this reliance on transcripts, recent research has shifted towards transcription-free solutions for translation and segmentation, leaving the direct generation of timestamps as uncharted territory. To fill this gap, we introduce the first direct model capable of producing automatic subtitles, entirely eliminating any dependence on intermediate transcripts also for timestamp prediction. Experimental results, backed by manual evaluation, showcase our solution{'}s new state-of-the-art performance across multiple language pairs and diverse conditions.",
 }
 
-@Article{einstein1905photoelectriceffect,
-  bibtex_show={true},
-  abbr={Ann. Phys.},
-  title="{{\"U}ber einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt}",
-  author={Albert Einstein},
-  abstract={This is the abstract text.},
-  journal={Ann. Phys.},
-  volume={322},
-  number={6},
-  pages={132--148},
-  year={1905},
-  doi={10.1002/andp.19053220607},
-  award={Albert Einstein receveid the **Nobel Prize in Physics** 1921 *for his services to Theoretical Physics, and especially for his discovery of the law of the photoelectric effect*},
-  award_name={Nobel Prize}
+@inproceedings{papi-etal-2024-good,
+    title = "When Good and Reproducible Results are a Giant with Feet of Clay: The Importance of Software Quality in {NLP}",
+    author = "Papi, Sara  and
+      Gaido, Marco  and
+      Pilzer, Andrea  and
+      Negri, Matteo",
+    editor = "Ku, Lun-Wei  and
+      Martins, Andre  and
+      Srikumar, Vivek",
+    booktitle = "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = aug,
+    year = "2024",
+    address = "Bangkok, Thailand",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.acl-long.200",
+    pages = "3657--3672",
+    abstract = "Despite its crucial role in research experiments, code correctness is often presumed solely based on the perceived quality of results. This assumption, however, comes with the risk of erroneous outcomes and, in turn, potentially misleading findings. To mitigate this risk, we posit that the current focus on reproducibility should go hand in hand with the emphasis on software quality. We support our arguments with a case study in which we identify and fix three bugs in widely used implementations of the state-of-the-art Conformer architecture. Through experiments on speech recognition and translation in various languages, we demonstrate that the presence of bugs does not prevent the achievement of good and reproducible results, which however can lead to incorrect conclusions that potentially misguide future research. As countermeasures, we release pangoliNN, a library dedicated to testing neural models, and propose a Code-quality Checklist, with the goal of promoting coding best practices and improving software quality within the NLP community.",
 }
 
-@book{przibram1967letters,
-  bibtex_show={true},
-  title={Letters on wave mechanics},
-  author={Einstein, Albert and Schrödinger, Erwin and Planck, Max and Lorentz, Hendrik Antoon and Przibram, Karl},
-  year={1967},
-  publisher={Vision},
-  preview={wave-mechanics.gif},
-  abbr={Vision}
+@INPROCEEDINGS{10447565,
+  author={Papi, Sara and Wang, Peidong and Chen, Junkun and Xue, Jian and Kanda, Naoyuki and Li, Jinyu and Gaur, Yashesh},
+  booktitle={ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
+  title={Leveraging Timestamp Information for Serialized Joint Streaming Recognition and Translation}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={10381-10385},
+  keywords={Training;Costs;Signal processing;Transformers;Real-time systems;Decoding;Synchronization;speech recognition;speech translation;streaming;joint;timestamp},
+  doi={10.1109/ICASSP48485.2024.10447565}}
+
+@INPROCEEDINGS{10389715,
+  author={Papi, Sara and Wang, Peidong and Chen, Junkun and Xue, Jian and Li, Jinyu and Gaur, Yashesh},
+  booktitle={2023 IEEE Automatic Speech Recognition and Understanding Workshop (ASRU)}, 
+  title={Token-Level Serialized Output Training for Joint Streaming ASR and ST Leveraging Textual Alignments}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-8},
+  keywords={Training;Degradation;Transducers;Costs;Conferences;Speech enhancement;Transformers;automatic speech recognition;speech translation;streaming;serialized output training},
+  doi={10.1109/ASRU57964.2023.10389715}}
+
+@article{10.1162/tacl_a_00607,
+    author = {Papi, Sara and Gaido, Marco and Karakanta, Alina and Cettolo, Mauro and Negri, Matteo and Turchi, Marco},
+    title = "{Direct Speech Translation for Automatic Subtitling}",
+    journal = {Transactions of the Association for Computational Linguistics},
+    volume = {11},
+    pages = {1355-1376},
+    year = {2023},
+    month = {11},
+    abstract = "{Automatic subtitling is the task of automatically translating the speech of audiovisual content into short pieces of timed text, i.e., subtitles and their corresponding timestamps. The generated subtitles need to conform to space and time requirements, while being synchronized with the speech and segmented in a way that facilitates comprehension. Given its considerable complexity, the task has so far been addressed through a pipeline of components that separately deal with transcribing, translating, and segmenting text into subtitles, as well as predicting timestamps. In this paper, we propose the first direct speech translation model for automatic subtitling that generates subtitles in the target language along with their timestamps with a single model. Our experiments on 7 language pairs show that our approach outperforms a cascade system in the same data condition, also being competitive with production tools on both in-domain and newly released out-domain benchmarks covering new scenarios.}",
+    issn = {2307-387X},
+    doi = {10.1162/tacl_a_00607},
+    url = {https://doi.org/10.1162/tacl\_a\_00607},
+    eprint = {https://direct.mit.edu/tacl/article-pdf/doi/10.1162/tacl\_a\_00607/2178821/tacl\_a\_00607.pdf},
+}
+
+@inproceedings{papi_does_2022,
+	address = {Abu Dhabi, United Arab Emirates},
+	title = {Does {Simultaneous} {Speech} {Translation} need {Simultaneous} {Models}?},
+	url = {https://aclanthology.org/2022.findings-emnlp.11},
+	doi = {10.18653/v1/2022.findings-emnlp.11},
+	language = {en},
+	urldate = {2023-12-12},
+	booktitle = {Findings of the {Association} for {Computational} {Linguistics}: {EMNLP} 2022},
+	publisher = {Association for Computational Linguistics},
+	author = {Papi, Sara and Gaido, Marco and Negri, Matteo and Turchi, Marco},
+	year = {2022},
+	pages = {141--153},
+}
+
+@inproceedings{gaido_efficient_2022,
+	address = {Dublin, Ireland (in-person and online)},
+	title = {Efficient yet {Competitive} {Speech} {Translation}: {FBK}@{IWSLT2022}},
+	shorttitle = {Efficient yet {Competitive} {Speech} {Translation}},
+	url = {https://aclanthology.org/2022.iwslt-1.13},
+	doi = {10.18653/v1/2022.iwslt-1.13},
+	language = {en},
+	urldate = {2023-12-12},
+	booktitle = {Proceedings of the 19th {International} {Conference} on {Spoken} {Language} {Translation} ({IWSLT} 2022)},
+	publisher = {Association for Computational Linguistics},
+	author = {Gaido, Marco and Papi, Sara and Fucci, Dennis and Fiameni, Giuseppe and Negri, Matteo and Turchi, Marco},
+	year = {2022},
+	pages = {177--189},
+}
+
+@inproceedings{papi_over-generation_2022,
+	address = {Online},
+	title = {Over-{Generation} {Cannot} {Be} {Rewarded}: {Length}-{Adaptive} {Average} {Lagging} for {Simultaneous} {Speech} {Translation}},
+	shorttitle = {Over-{Generation} {Cannot} {Be} {Rewarded}},
+	url = {https://aclanthology.org/2022.autosimtrans-1.2},
+	doi = {10.18653/v1/2022.autosimtrans-1.2},
+	language = {en},
+	urldate = {2023-12-12},
+	booktitle = {Proceedings of the {Third} {Workshop} on {Automatic} {Simultaneous} {Translation}},
+	publisher = {Association for Computational Linguistics},
+	author = {Papi, Sara and Gaido, Marco and Negri, Matteo and Turchi, Marco},
+	year = {2022},
+	pages = {12--17},
+}
+
+@inproceedings{papi_dodging_2022,
+	address = {Online only},
+	title = {Dodging the {Data} {Bottleneck}: {Automatic} {Subtitling} with {Automatically} {Segmented} {ST} {Corpora}},
+	shorttitle = {Dodging the {Data} {Bottleneck}},
+	url = {https://aclanthology.org/2022.aacl-short.59},
+	abstract = {Speech translation for subtitling (SubST) is the task of automatically translating speech data into well-formed subtitles by inserting subtitle breaks compliant to specific displaying guidelines. Similar to speech translation (ST), model training requires parallel data comprising audio inputs paired with their textual translations. In SubST, however, the text has to be also annotated with subtitle breaks. So far, this requirement has represented a bottleneck for system development, as confirmed by the dearth of publicly available SubST corpora. To fill this gap, we propose a method to convert existing ST corpora into SubST resources without human intervention. We build a segmenter model that automatically segments texts into proper subtitles by exploiting audio and text in a multimodal fashion, achieving high segmentation quality in zero-shot conditions. Comparative experiments with SubST systems respectively trained on manual and automatic segmentations result in similar performance, showing the effectiveness of our approach.},
+	urldate = {2023-12-12},
+	booktitle = {Proceedings of the 2nd {Conference} of the {Asia}-{Pacific} {Chapter} of the {Association} for {Computational} {Linguistics} and the 12th {International} {Joint} {Conference} on {Natural} {Language} {Processing} ({Volume} 2: {Short} {Papers})},
+	publisher = {Association for Computational Linguistics},
+	author = {Papi, Sara and Karakanta, Alina and Negri, Matteo and Turchi, Marco},
+	editor = {He, Yulan and Ji, Heng and Li, Sujian and Liu, Yang and Chang, Chua-Hui},
+	month = nov,
+	year = {2022},
+	pages = {480--487},
+}
+
+@inproceedings{gaido_joint_2023,
+	title = {Joint {Speech} {Translation} and {Named} {Entity} {Recognition}},
+	url = {https://www.isca-speech.org/archive/interspeech_2023/gaido23_interspeech.html},
+	doi = {10.21437/Interspeech.2023-1767},
+	language = {en},
+	urldate = {2023-12-12},
+	booktitle = {{INTERSPEECH} 2023},
+	publisher = {ISCA},
+	author = {Gaido, Marco and Papi, Sara and Negri, Matteo and Turchi, Marco},
+	month = aug,
+	year = {2023},
+	pages = {47--51},
+}
+
+@inproceedings{papi_attention_2023,
+	address = {Toronto, Canada},
+	title = {Attention as a {Guide} for {Simultaneous} {Speech} {Translation}},
+	url = {https://aclanthology.org/2023.acl-long.745},
+	doi = {10.18653/v1/2023.acl-long.745},
+	language = {en},
+	urldate = {2023-12-12},
+	booktitle = {Proceedings of the 61st {Annual} {Meeting} of the {Association} for {Computational} {Linguistics} ({Volume} 1: {Long} {Papers})},
+	publisher = {Association for Computational Linguistics},
+	author = {Papi, Sara and Negri, Matteo and Turchi, Marco},
+	year = {2023},
+	pages = {13340--13356},
+}
+
+@misc{papi_when_2023,
+	title = {When {Good} and {Reproducible} {Results} are a {Giant} with {Feet} of {Clay}: {The} {Importance} of {Software} {Quality} in {NLP}},
+	shorttitle = {When {Good} and {Reproducible} {Results} are a {Giant} with {Feet} of {Clay}},
+	url = {http://arxiv.org/abs/2303.16166},
+	doi = {10.48550/arXiv.2303.16166},
+	abstract = {Despite its crucial role in research experiments, code correctness is often presumed only on the basis of the perceived quality of results. This assumption comes with the risk of erroneous outcomes and potentially misleading findings. To address this issue, we posit that the current focus on reproducibility should go hand in hand with the emphasis on software quality. We present a case study in which we identify and fix three bugs in widely used implementations of the state-of-the-art Conformer architecture. Through experiments on speech recognition and translation in various languages, we demonstrate that the presence of bugs does not prevent the achievement of good and reproducible results, which however can lead to incorrect conclusions that potentially misguide future research. As a countermeasure, we propose a Code-quality Checklist and release pangoliNN, a library dedicated to testing neural models, with the goal of promoting coding best practices and improving research software quality within the NLP community.},
+	urldate = {2023-12-12},
+	publisher = {arXiv},
+	author = {Papi, Sara and Gaido, Marco and Pilzer, Andrea and Negri, Matteo},
+	month = aug,
+	year = {2023},
+	note = {arXiv:2303.16166 [cs]},
+	keywords = {Computer Science - Computation and Language, Computer Science - Artificial Intelligence},
+}
+
+@inproceedings{papi_direct_2023,
+	address = {Toronto, Canada (in-person and online)},
+	title = {Direct {Models} for {Simultaneous} {Translation} and {Automatic} {Subtitling}: {FBK}@{IWSLT2023}},
+	shorttitle = {Direct {Models} for {Simultaneous} {Translation} and {Automatic} {Subtitling}},
+	url = {https://aclanthology.org/2023.iwslt-1.11},
+	doi = {10.18653/v1/2023.iwslt-1.11},
+	language = {en},
+	urldate = {2023-12-12},
+	booktitle = {Proceedings of the 20th {International} {Conference} on {Spoken} {Language} {Translation} ({IWSLT} 2023)},
+	publisher = {Association for Computational Linguistics},
+	author = {Papi, Sara and Gaido, Marco and Negri, Matteo},
+	year = {2023},
+	pages = {159--168},
+}
+
+@inproceedings{papi_alignatt:_2023,
+	title = {{AlignAtt}: {Using} {Attention}-based {Audio}-{Translation} {Alignments} as a {Guide} for {Simultaneous} {Speech} {Translation}},
+	shorttitle = {{AlignAtt}},
+	url = {https://www.isca-speech.org/archive/interspeech_2023/papi23_interspeech.html},
+	doi = {10.21437/Interspeech.2023-170},
+	language = {en},
+	urldate = {2023-12-12},
+	booktitle = {{INTERSPEECH} 2023},
+	publisher = {ISCA},
+	author = {Papi, Sara and Turchi, Marco and Negri, Matteo},
+	month = aug,
+	year = {2023},
+	pages = {3974--3978},
+}
+
+@inproceedings{fucci_integrating_2023,
+	address = {Singapore},
+	title = {Integrating {Language} {Models} into {Direct} {Speech} {Translation}: {An} {Inference}-{Time} {Solution} to {Control} {Gender} {Inflection}},
+	shorttitle = {Integrating {Language} {Models} into {Direct} {Speech} {Translation}},
+	url = {https://aclanthology.org/2023.emnlp-main.705},
+	abstract = {When translating words referring to the speaker, speech translation (ST) systems should not resort to default masculine generics nor rely on potentially misleading vocal traits. Rather, they should assign gender according to the speakers' preference. The existing solutions to do so, though effective, are hardly feasible in practice as they involve dedicated model re-training on gender-labeled ST data. To overcome these limitations, we propose the first inference-time solution to control speaker-related gender inflections in ST. Our approach partially replaces the (biased) internal language model (LM) implicitly learned by the ST decoder with gender-specific external LMs. Experiments on en{\textbackslash}rightarrowes/fr/it show that our solution outperforms the base models and the best training-time mitigation strategy by up to 31.0 and 1.6 points in gender accuracy, respectively, for feminine forms. The gains are even larger (up to 32.0 and 3.4) in the challenging condition where speakers' vocal traits conflict with their gender.},
+	urldate = {2023-12-12},
+	booktitle = {Proceedings of the 2023 {Conference} on {Empirical} {Methods} in {Natural} {Language} {Processing}},
+	publisher = {Association for Computational Linguistics},
+	author = {Fucci, Dennis and Gaido, Marco and Papi, Sara and Cettolo, Mauro and Negri, Matteo and Bentivogli, Luisa},
+	editor = {Bouamor, Houda and Pino, Juan and Bali, Kalika},
+	month = dec,
+	year = {2023},
+	pages = {11505--11517},
+}
+
+@inproceedings{papi-etal-2021-speechformer,
+    title = "Speechformer: Reducing Information Loss in Direct Speech Translation",
+    author = "Papi, Sara  and
+      Gaido, Marco  and
+      Negri, Matteo  and
+      Turchi, Marco",
+    editor = "Moens, Marie-Francine  and
+      Huang, Xuanjing  and
+      Specia, Lucia  and
+      Yih, Scott Wen-tau",
+    booktitle = "Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing",
+    month = nov,
+    year = "2021",
+    address = "Online and Punta Cana, Dominican Republic",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2021.emnlp-main.127",
+    doi = "10.18653/v1/2021.emnlp-main.127",
+    pages = "1698--1706",
+    abstract = "Transformer-based models have gained increasing popularity achieving state-of-the-art performance in many research fields including speech translation. However, Transformer{'}s quadratic complexity with respect to the input sequence length prevents its adoption as is with audio signals, which are typically represented by long sequences. Current solutions resort to an initial sub-optimal compression based on a fixed sampling of raw audio features. Therefore, potentially useful linguistic information is not accessible to higher-level layers in the architecture. To solve this issue, we propose Speechformer, an architecture that, thanks to reduced memory usage in the attention layers, avoids the initial lossy compression and aggregates information only at a higher level according to more informed linguistic criteria. Experiments on three language pairs (en→de/es/nl) show the efficacy of our solution, with gains of up to 0.8 BLEU on the standard MuST-C corpus and of up to 4.0 BLEU in a low resource scenario.",
+}
+
+@inproceedings{karakanta-etal-2021-simultaneous,
+    title = "Simultaneous Speech Translation for Live Subtitling: from Delay to Display",
+    author = "Karakanta, Alina  and
+      Papi, Sara  and
+      Negri, Matteo  and
+      Turchi, Marco",
+    editor = "Turchi, Marco  and
+      Fantinuoli, Claudio",
+    booktitle = "Proceedings of the 1st Workshop on Automatic Spoken Language Translation in Real-World Settings (ASLTRW)",
+    month = aug,
+    year = "2021",
+    address = "Virtual",
+    publisher = "Association for Machine Translation in the Americas",
+    url = "https://aclanthology.org/2021.mtsummit-asltrw.4",
+    pages = "35--48",
+    abstract = "With the increased audiovisualisation of communication, the need for live subtitles in multilingual events is more relevant than ever. In an attempt to automatise the process, we aim at exploring the feasibility of simultaneous speech translation (SimulST) for live subtitling. However, the word-for-word rate of generation of SimulST systems is not optimal for displaying the subtitles in a comprehensible and readable way. In this work, we adapt SimulST systems to predict subtitle breaks along with the translation. We then propose a display mode that exploits the predicted break structure by presenting the subtitles in scrolling lines. We compare our proposed mode with a display 1) word-for-word and 2) in blocks, in terms of reading speed and delay. Experiments on three language pairs (en→it, de, fr) show that scrolling lines is the only mode achieving an acceptable reading speed while keeping delay close to a 4-second threshold. We argue that simultaneous translation for readable live subtitles still faces challenges, the main one being poor translation quality, and propose directions for steering future research.",
+}
+
+@inproceedings{papi-etal-2021-dealing,
+    title = "Dealing with training and test segmentation mismatch: {FBK}@{IWSLT}2021",
+    author = "Papi, Sara  and
+      Gaido, Marco  and
+      Negri, Matteo  and
+      Turchi, Marco",
+    editor = "Federico, Marcello  and
+      Waibel, Alex  and
+      Costa-juss{\`a}, Marta R.  and
+      Niehues, Jan  and
+      Stuker, Sebastian  and
+      Salesky, Elizabeth",
+    booktitle = "Proceedings of the 18th International Conference on Spoken Language Translation (IWSLT 2021)",
+    month = aug,
+    year = "2021",
+    address = "Bangkok, Thailand (online)",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2021.iwslt-1.8",
+    doi = "10.18653/v1/2021.iwslt-1.8",
+    pages = "84--91",
+    abstract = "This paper describes FBK{'}s system submission to the IWSLT 2021 Offline Speech Translation task. We participated with a direct model, which is a Transformer-based architecture trained to translate English speech audio data into German texts. The training pipeline is characterized by knowledge distillation and a two-step fine-tuning procedure. Both knowledge distillation and the first fine-tuning step are carried out on manually segmented real and synthetic data, the latter being generated with an MT system trained on the available corpora. Differently, the second fine-tuning step is carried out on a random segmentation of the MuST-C v2 En-De dataset. Its main goal is to reduce the performance drops occurring when a speech translation model trained on manually segmented data (i.e. an ideal, sentence-like segmentation) is evaluated on automatically segmented audio (i.e. actual, more realistic testing conditions). For the same purpose, a custom hybrid segmentation procedure that accounts for both audio content (pauses) and for the length of the produced segments is applied to the test data before passing them to the system. At inference time, we compared this procedure with a baseline segmentation method based on Voice Activity Detection (VAD). Our results indicate the effectiveness of the proposed hybrid approach, shown by a reduction of the gap with manual segmentation from 8.3 to 1.4 BLEU points.",
+}
+
+@inproceedings{papi20_interspeech,
+  author={Sara Papi and Edmondo Trentin and Roberto Gretter and Marco Matassoni and Daniele Falavigna},
+  title={{Mixtures of Deep Neural Experts for Automated Speech Scoring}},
+  year=2020,
+  booktitle={Proc. Interspeech 2020},
+  pages={3845--3849},
+  doi={10.21437/Interspeech.2020-1055}
+}
+
+@misc{gaido2024hyenas,
+      title={How do Hyenas deal with Human Speech? Speech Recognition and Translation with ConfHyena}, 
+      author={Marco Gaido and Sara Papi and Matteo Negri and Luisa Bentivogli},
+      year={2024},
+      eprint={2402.13208},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
 }
