@@ -10,4 +10,4 @@ related_posts: false
 
 **Paper:** ["What the Harm? Quantifying the Tangible Impact of Gender Bias in Machine Translation with a Human-centered Study"](https://aclanthology.org/2024.emnlp-main.1002/)
 **Authors:** Beatrice Savoldi, Sara Papi, Matteo Negri, Ana Guerberof-Arenas, Luisa Bentivogli
-*Social Impact Paper Award*
+_Social Impact Paper Award_

@@ -27,9 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Postdoctoral Researcher in Computer Science, specifically in Speech Processing, at [FBK (Fondazione Bruno Kessler)](https://www.fbk.eu/) in the [MT Unit](https://mt.fbk.eu/). I am interested in Speech Processing in general and its applications, with a particular focus on Speech Translation. 
+I am a Postdoctoral Researcher in Computer Science, specifically in Speech Processing, at [FBK (Fondazione Bruno Kessler)](https://www.fbk.eu/) in the [MT Unit](https://mt.fbk.eu/). I am interested in Speech Processing in general and its applications, with a particular focus on Speech Translation.
 
 (I love elephants ♥️🐘)
 
 [Leave an anonymous feedback here!](https://www.admonymous.co/sarapapi) 😊
-{style="text-align: justify;"}
