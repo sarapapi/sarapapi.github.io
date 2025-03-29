@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://spapi.github.io/sitemap.xml
+Sitemap: https://sarapapi.github.io/sitemap.xml
