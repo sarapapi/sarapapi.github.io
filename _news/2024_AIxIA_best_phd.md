@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-<a href="https://mt.fbk.eu/our-postdoc-sara-papi-received-the-best-phd-thesis-special-mention-by-aixia-2024/">Honorable Mention for the Best Italian PhD Thesis at AIxIA</a> 🎊
+🏆 <a href="https://mt.fbk.eu/our-postdoc-sara-papi-received-the-best-phd-thesis-special-mention-by-aixia-2024/">Honorable Mention for the Best Italian PhD Thesis at AIxIA</a>
