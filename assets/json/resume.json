@@ -16,12 +16,13 @@
   "work": [
     {
       "name": "Fondazione Bruno Kessler",
-      "position": "Postdoctoral Researcher in Speech Processing",
+      "position": "Postdoctoral Researcher",
       "location": "Trento, Italy",
       "image": "fbk.png",
       "url": "https://www.fbk.eu/",
       "startDate": "2024-01",
-      "endDate": ""
+      "endDate": "",
+      "topic": "Speech Processing in the Meetween Horizon European Project"
     },
     {
       "name": "Microsoft",
