@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-"How do Hyenas deal with Human Speech? Speech Recognition and Translation with ConfHyena" accepted at LREC-COLING 2024 🎊
+<a href="https://arxiv.org/abs/2402.13208">"How do Hyenas deal with Human Speech? Speech Recognition and Translation with ConfHyena"</a> accepted at LREC-COLING 2024 🎊

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My second Microsoft internship paper was accepted at ICASSP 2024 🎊
+<a href="https://arxiv.org/pdf/2307.03354">My second Microsoft internship paper</a> was accepted at ICASSP 2024 🎊
