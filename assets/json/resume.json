@@ -1,19 +1,10 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Sara Papi",
+    "label": "Postdoctoral Researcher",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
+    "email": "sara95papi@gmail.com",
+    "url": "https://sarapapi.github.io/",
     "profiles": [
       {
         "network": "Twitter",
@@ -33,29 +24,41 @@
       "highlights": ["Relativity"]
     }
   ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "institution": "University of Trento",
+      "location": "Trento, Italy",
+      "image": "unitn.png",
+      "url": "https://www.unitn.it/en/",
+      "advisor": "Marco Turchi and Matteo Negri",
+      "studyType": "Ph.D. cum Laude in Information Engineering and Computer Science",
+      "startDate": "2020-11",
+      "endDate": "2024-04",
       "score": "10",
-      "courses": ["Theory of Relativity"]
+      "research": "Speech Translation",
+      "thesis": "Direct Speech Translation in Constrained Contexts: the Simultaneous and Subtitling Scenarios"
+    },
+    {
+      "institution": "University of Siena",
+      "image": "unisi.jpg",
+      "location": "Siena, Italy",
+      "url": "https://en.unisi.it/",
+      "studyType": "M.Sc. cum Laude in Computer and Automation Engineering",
+      "startDate": "2017-12",
+      "endDate": "2020-02",
+      "score": "10",
+      "advisor": "Prof. Edmondo Trentin"
+    },
+    {
+      "institution": "University of Siena",
+      "image": "unisi.jpg",
+      "location": "Siena, Italy",
+      "url": "https://en.unisi.it/",
+      "studyType": "B.Sc. in Information Engineering",
+      "startDate": "2014-10",
+      "endDate": "2017-12",
+      "score": "10",
+      "advisor": "Prof. Andrea Garulli"
     }
   ],
   "awards": [
