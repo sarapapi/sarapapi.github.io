@@ -31,6 +31,20 @@
                   </td>
                 </tr>
               {% endif %}
+              % if content.image %}
+                <tr>
+                  <td>
+                    {% assign profile_image_path = content.image | prepend: 'assets/img/' %}
+                    {% assign profile_image_class = 'img-fluid' %}
+                    {% capture sizes %}(min-width: {{site.max_width}}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px)
+                30vw, 95vw"{% endcapture %}
+                    {%
+                      include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=content.image
+                      cache_bust=true
+                    %}
+                  </td>
+                </tr>
+              {% endif %}
             </tbody>
           </table>
         </div>
