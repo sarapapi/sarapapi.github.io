@@ -421,7 +421,10 @@ ninja.data = [{
           section: "News",handler: () => {
               window.location.href = "/news/2024_EMNLP_award/";
             },},{id: "news-honorable-mention-for-the-best-italian-phd-thesis-at-aixia",
-          title: 'Honorable Mention for the Best Italian PhD Thesis at AIxIA 🎊',
+          title: '🏆 Honorable Mention for the Best Italian PhD Thesis at AIxIA',
+          description: "",
+          section: "News",},{id: "news-highly-commended-eamt-best-phd-thesis",
+          title: '🏆 Highly Commended EAMT Best PhD Thesis',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
