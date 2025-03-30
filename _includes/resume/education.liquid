@@ -31,7 +31,7 @@
                   </td>
                 </tr>
               {% endif %}
-              % if content.image %}
+              {% if content.image %}
                 <tr>
                   <td>
                     {% assign profile_image_path = content.image | prepend: 'assets/img/' %}
