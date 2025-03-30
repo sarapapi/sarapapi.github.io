@@ -15,13 +15,32 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Fondazione Bruno Kessler",
+      "position": "Postdoctoral Researcher in Speech Processing",
+      "location": "Trento, Italy",
+      "image": "fbk.png",
+      "url": "https://www.fbk.eu/",
+      "startDate": "2024-01",
+      "endDate": ""
+    },
+    {
+      "name": "Microsoft",
+      "position": "Research Intern",
+      "location": "Redmond, WA, USA",
+      "url": "https://microsoft.ai",
+      "startDate": "2023-05",
+      "endDate": "2023-08",
+      "topic": "Streaming Speech Recognition and Translation"
+    },
+    {
+      "name": "Fondazione Bruno Kessler",
+      "position": "Research Intern",
+      "location": "Trento, Italy",
+      "image": "fbk.png",
+      "url": "https://www.fbk.eu/",
+      "startDate": "2019-06",
+      "endDate": "2019-12",
+      "topic": "Automatic Speech Scoring"
     }
   ],
   "education": [
