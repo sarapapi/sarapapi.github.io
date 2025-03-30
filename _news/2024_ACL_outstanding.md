@@ -1,6 +1,6 @@
 ---
 layout: post
-title: :trophy: Outstanding Paper and other Achievement at ACL 2024!
+title: 🏆 Outstanding Paper and other Achievement at ACL 2024!
 date: 2024-08-14 00:00:00-0000
 inline: false
 related_posts: false

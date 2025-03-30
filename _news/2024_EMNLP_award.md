@@ -1,6 +1,6 @@
 ---
 layout: post
-title: :trophy: Social Impact Paper Award at EMNLP 2024! 
+title: 🏆 Social Impact Paper Award at EMNLP 2024!
 date: 2024-11-14 00:00:00-0000
 inline: false
 related_posts: false
