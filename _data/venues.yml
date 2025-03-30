@@ -10,6 +10,10 @@
 "NAACL":
   color: "#11d68b"
 
+"IWSLT":
+  color: "#780000"
+  url: https://iwslt.org/
+
 "AAAI":
   color: "#11d68b"
 
