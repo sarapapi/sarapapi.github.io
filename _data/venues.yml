@@ -1,14 +1,14 @@
 "ACL":
-  color: "#11d68b"
+  color: "#EE1C24"
 
 "EACL":
-  color: "#11d68b"
+  color: "#EE1C24"
 
 "EMNLP":
-  color: "#11d68b"
+  color: "#EE1C24"
 
 "NAACL":
-  color: "#11d68b"
+  color: "#EE1C24"
 
 "IWSLT":
   color: "#780000"
