@@ -410,13 +410,13 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2024_ACL/";
-            },},{id: "news-",
-          title: '',
+            },},{id: "news-outstanding-paper-and-other-achievement-at-acl-2024",
+          title: '🏆 Outstanding Paper and other Achievement at ACL 2024!',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2024_ACL_outstanding/";
-            },},{id: "news-",
-          title: '',
+            },},{id: "news-social-impact-paper-award-at-emnlp-2024",
+          title: '🏆 Social Impact Paper Award at EMNLP 2024!',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2024_EMNLP_award/";
