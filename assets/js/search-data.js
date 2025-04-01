@@ -469,6 +469,13 @@ ninja.data = [{
           window.open("https://scholar.google.com/citations?user=E8_v8NUAAAAJ", "_blank");
         },
       },{
+        id: 'social-researchgate',
+        title: 'ResearchGate',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.researchgate.net/profile/Sara-Papi/", "_blank");
+        },
+      },{
         id: 'social-semanticscholar',
         title: 'Semantic Scholar',
         section: 'Socials',
