@@ -10,6 +10,10 @@
 "NAACL":
   color: "#EE1C24"
 
+"TACL":
+  color: "#abe3f3"
+  url: https://transacl.org/
+
 "IWSLT":
   color: "#780000"
   url: https://iwslt.org/
