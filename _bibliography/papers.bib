@@ -4,6 +4,8 @@
 @string{asr = {Speech Recognition}}
 @string{sub = {Automatic Subtitling}}
 @string{st = {Speech Translation}}
+@string{gender = {Gender Bias}}
+@string{hcai = {Human-Centered AI}}
 @string{others = {Others}}
 
 @inproceedings{gaido-etal-2024-mosel,
@@ -45,6 +47,7 @@
       Bentivogli, Luisa",
     abbr_venue={EMNLP},
     selected={true},
+    abbr={gender,hcai},
     award="EMNLP 2024 Social Impact Paper Award",
     pdf={https://aclanthology.org/2024.emnlp-main.1002.pdf},
     poster="https://drive.google.com/file/d/10PnX-Uh7AyCo_uUNDEXitxaxwoyI3Obb/view?usp=sharing",
@@ -70,14 +73,17 @@
       Carpuat, Marine",
     abbr_venue={IWSLT},
     abbr=sfm,
+    pdf={https://aclanthology.org/2024.iwslt-1.11.pdf},
+    arxiv="2406.14177",
+    poster="https://drive.google.com/file/d/1KQMfa4Q9EHNhHKojnDcIMu0SE-CAQgJI/view?usp=sharing",
+    code={https://github.com/hlt-mt/FBK-fairseq/blob/master/fbk_works/SIMULSEAMLESS.md},
     booktitle = "Proceedings of the 21st International Conference on Spoken Language Translation (IWSLT 2024)",
     month = aug,
     year = "2024",
     address = "Bangkok, Thailand (in-person and online)",
     publisher = "Association for Computational Linguistics",
     url = "https://aclanthology.org/2024.iwslt-1.11",
-    pages = "72--79",
-    abstract = "This paper describes the FBK{'}s participation in the Simultaneous Translation Evaluation Campaign at IWSLT 2024. For this year{'}s submission in the speech-to-text translation (ST) sub-track, we propose SimulSeamless, which is realized by combining AlignAtt and SeamlessM4T in its medium configuration. The SeamlessM4T model is used {`}off-the-shelf{'} and its simultaneous inference is enabled through the adoption of AlignAtt, a SimulST policy based on cross-attention that can be applied without any retraining or adaptation of the underlying model for the simultaneous task. We participated in all the Shared Task languages (English-{\textgreater}German, Japanese, Chinese, and Czech-{\textgreater}English), achieving acceptable or even better results compared to last year{'}s submissions. SimulSeamless, covering more than 143 source languages and 200 target languages, is released at: https://github.com/hlt-mt/FBK-fairseq/.",
+    pages = "72--79"
 }
 
 @inproceedings{gaido-etal-2024-automatic,
