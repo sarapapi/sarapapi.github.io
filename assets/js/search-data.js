@@ -404,6 +404,9 @@ ninja.data = [{
           section: "News",},{id: "news-highly-commended-eamt-best-phd-thesis",
           title: '🏆 Highly Commended EAMT Best PhD Thesis',
           description: "",
+          section: "News",},{id: "news-best-phd-graduate-2024-award-in-information-and-communication-technology-from-the-university-of-trento",
+          title: '🏆 Best PhD Graduate 2024 Award in Information and Communication Technology from the...',
+          description: "",
           section: "News",},{
         id: 'social-bluesky',
         title: 'Bluesky',
