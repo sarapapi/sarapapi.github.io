@@ -1,17 +1,10 @@
 {
   "basics": {
     "name": "Sara Papi",
-    "label": "Postdoctoral Researcher",
+    "label": "Researcher",
     "image": "",
     "email": "sara95papi@gmail.com",
-    "url": "https://sarapapi.github.io/",
-    "profiles": [
-      {
-        "network": "X",
-        "username": "sarapapi",
-        "url": "https://x.com/sarapapi"
-      }
-    ]
+    "url": "https://sarapapi.github.io/"
   },
   "work": [
     {
@@ -83,6 +76,12 @@
     }
   ],
   "awards": [
+    {
+      "title": " Best PhD Graduate 2024 Award in Information and Communication Technology",
+      "date": "2025-05-09",
+      "awarder": "University of Trento",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7326598506318589952/"
+    },
     {
       "title": "Highly Commended EAMT Best PhD Thesis",
       "date": "2025-03-28",
