@@ -4,6 +4,7 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
+  - hlt-mt/mcif
   - hlt-mt/FBK-fairseq
   - hlt-mt/mosel
   - hlt-mt/fbk-llm
