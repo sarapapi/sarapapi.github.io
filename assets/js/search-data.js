@@ -28,7 +28,7 @@ ninja.data = [{
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/cv/";
+            window.location.href = "/https:/github.com/sarapapi/sarapapi.github.io/blob/3b1c121244feed9ab5dd9035d15ec130b70c6c57/assets/pdf/Sara_Papi_CV.pdf";
           },
         },{id: "post-a-post-with-plotly-js",
         
