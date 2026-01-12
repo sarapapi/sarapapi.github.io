@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Postdoctoral Researcher in Computer Science, specifically in Speech Processing, at [FBK (Fondazione Bruno Kessler)](https://www.fbk.eu/) in the [MT Unit](https://mt.fbk.eu/). I am interested in Speech Processing in general and its applications, with a particular focus on Speech Translation.
+Sara Papi is an AI Researcher at [FBK (Fondazione Bruno Kessler)](https://www.fbk.eu/), where she works on speech processing and multimodal LLMs within the [MEETWEEN](https://www.meetween.eu/) and [DVPS](https://dvps.translated.com/) Horizon European projects. She received her PhD cum laude in Information Engineering and Computer Science from the University of Trento in 2024, with a focus on simultaneous speech translation and subtitling. Her research interests span multimodal and crosslingual instruction-following models, speech foundation models, and LLMs. Her work has been recognized with awards, including the Best PhD Graduate 2024 Award in Information and Communication Technology from the University of Trento, an Outstanding Paper and SAC Award at ACL 2024, and a Social Impact Paper Award at EMNLP 2024. She actively contributes to the community as an organizer of the IWSLT Evaluation Campaign and as an Area Chair or reviewer for major conferences in speech and NLP, such as *ACL and Interspeech.
 
 (I love elephants ♥️🐘)
 

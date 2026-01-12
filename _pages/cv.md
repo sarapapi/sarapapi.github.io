@@ -1,6 +1,6 @@
 ---
 layout: cv
-permalink: /cv/
+permalink: https://github.com/sarapapi/sarapapi.github.io/blob/3b1c121244feed9ab5dd9035d15ec130b70c6c57/assets/pdf/Sara_Papi_CV.pdf
 title: CV
 nav: true
 nav_order: 5
