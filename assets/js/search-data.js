@@ -16,19 +16,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-repositories",
-          title: "Repositories",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/repositories/";
-          },
         },{id: "nav-cv",
           title: "CV",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/https:/github.com/sarapapi/sarapapi.github.io/blob/3b1c121244feed9ab5dd9035d15ec130b70c6c57/assets/pdf/Sara_Papi_CV.pdf";
+            window.location.href = "/https:/raw.githubusercontent.com/sarapapi/sarapapi.github.io/3b1c121244feed9ab5dd9035d15ec130b70c6c57/assets/pdf/Sara_Papi_CV.pdf";
           },
         },{id: "post-a-post-with-plotly-js",
         
