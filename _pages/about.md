@@ -29,7 +29,6 @@ latest_posts:
 
 I am an AI Researcher at [FBK (Fondazione Bruno Kessler)](https://www.fbk.eu/), working on speech processing and multimodal LLMs within the [MEETWEEN](https://www.meetween.eu/) and [DVPS](https://dvps.translated.com/) Horizon European projects. I received my PhD cum laude in Information Engineering and Computer Science from the University of Trento in 2024, with a focus on simultaneous speech translation and subtitling. My research interests span multimodal and crosslingual instruction-following models, speech foundation models, and LLMs. My work has been recognized with awards, including the Best PhD Graduate 2024 Award in Information and Communication Technology from the University of Trento, an Outstanding Paper and SAC Award at ACL 2024, and a Social Impact Paper Award at EMNLP 2024. I actively contribute to the community as an organizer of the IWSLT Evaluation Campaign and as an Area Chair or reviewer for major conferences in speech and NLP, such as \*ACL and Interspeech.
 
-
 <p style="text-align: center;">(I love elephants ♥️🐘)</p>
 
 <p style="text-align: center;">[Leave an anonymous feedback here!](https://www.admonymous.co/sarapapi) 😊</p>
