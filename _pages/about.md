@@ -31,4 +31,4 @@ I am an AI Researcher at [FBK (Fondazione Bruno Kessler)](https://www.fbk.eu/), 
 
 <p style="text-align: center;">(I love elephants ♥️🐘)</p>
 
-<p style="text-align: center;">[Leave an anonymous feedback here!](https://www.admonymous.co/sarapapi) 😊</p>
+<p style="text-align: center;"><a href="https://www.admonymous.co/sarapapi">Leave an anonymous feedback here! 😊</a></p>
