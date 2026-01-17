@@ -396,6 +396,9 @@ ninja.data = [{
           section: "News",},{id: "news-best-phd-graduate-2024-award-in-information-and-communication-technology-from-the-university-of-trento",
           title: '🏆 Best PhD Graduate 2024 Award in Information and Communication Technology from the...',
           description: "",
+          section: "News",},{id: "news-talk-on-crosslingual-evaluation-of-multimodal-instruction-following-models-at-cohere-labs",
+          title: '🏆 Talk on Crosslingual Evaluation of Multimodal Instruction-Following Models at Cohere Labs',
+          description: "",
           section: "News",},{
         id: 'social-bluesky',
         title: 'Bluesky',
