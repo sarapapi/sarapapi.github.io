@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🏆 <a href="https://cohere.com/events/cohere-labs-sara-papi-2026">Talk on Crosslingual Evaluation of Multimodal Instruction-Following Models at Cohere Labs</a>
+🗣️ <a href="https://cohere.com/events/cohere-labs-sara-papi-2026">Talk on Crosslingual Evaluation of Multimodal Instruction-Following Models at Cohere Labs</a>
