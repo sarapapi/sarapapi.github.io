@@ -31,5 +31,5 @@ nav_order: 2
 
 ## Students Supervision
 
-- **Amirbek Djanibekov** (PhD Student at MBDUAI) — Internship Supervisor (2025-present)
+- **Amirbek Djanibekov** (PhD Student at MBDUAI) — Internship Supervisor (2025-2026)
 - **Zhihang Xie** (PhD Student at FBK) — PhD Co-Advisor (2025-present)
