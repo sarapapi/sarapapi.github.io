@@ -26,6 +26,7 @@
 
 "ICLR":
   color: "#5DC46C"
+  url: https://iclr.cc/
 
 "ICASSP":
   color: "#666666"
@@ -41,3 +42,7 @@
 
 "NeurIPS":
   color: "#89f2fa"
+
+"CLiC-it":
+  color: "#049447"
+  url: https://www.ai-lc.it/en/conferences/clic-it/
