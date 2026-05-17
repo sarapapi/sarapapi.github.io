@@ -10,6 +10,9 @@
 "NAACL":
   color: "#EE1C24"
 
+"LREC-COLING":
+  color: "#EE1C24"
+
 "TACL":
   color: "#000000"
   url: https://transacl.org/
